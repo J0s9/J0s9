@@ -2,6 +2,7 @@
 # 🌘 Mis capacidades:
 ✅ Analisis y Flujo de Información<br>
 ✅ Diagramas UML<br>
+✅ Creación de Tablas y Consultas SQL<br>
 ✅ Desarrollo Web<br>
 ✅ Creación de APIS<br>
 # 💻   Mi Stack:

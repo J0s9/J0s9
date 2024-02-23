@@ -1,5 +1,5 @@
 ![descarga (3)](https://github.com/J0s9/J0s9/assets/96739958/bac7985f-8373-4bae-9fc2-44052ca01103)
-# 🌘 Aptitudes:
+# 🌘 Mi Aptitudes:
 ✅ Analisis y Flujo de Información<br>
 ✅ Diagramas UML<br>
 ✅ Creación de Tablas y Consultas SQL<br>

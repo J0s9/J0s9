@@ -1,4 +1,4 @@
-![descarga (3)](https://github.com/J0s9/J0s9/assets/96739958/bac7985f-8373-4bae-9fc2-44052ca01103)
+![mi-fondo2](https://github.com/J0s9/J0s9/assets/96739958/c5683832-d8fe-4a30-ab27-c2b9d027a5f4)
 # 🌘 Mis Aptitudes:
 ✅ Analisis y Flujo de Información<br>
 ✅ Diagramas UML<br>
